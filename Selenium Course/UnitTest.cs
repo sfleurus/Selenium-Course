@@ -20,7 +20,6 @@ namespace Selenium_Course
             Driver.Navigate().GoToUrl("http://www.newtours.demoaut.com/mercurywelcome.php?osCsid=b2bc7c82f7ddc92fd096f39495d0e9f8");
             Driver.Manage().Window.Maximize();
 
-            Driver.Manage().Window.Maximize();
         }
 
         [Test]
